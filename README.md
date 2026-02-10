@@ -9,7 +9,7 @@ This project analyzes a dataset of bike buyers to identify trends in customer de
 
 ###  Dashboard Preview
 
-![Bike Sales Dashboard]([<img width="1004" height="601" alt="Screenshot 2026-02-10 191835" src="https://github.com/user-attachments/assets/661059aa-1265-4b35-9b81-8bd9954dbe2c" />](https://raw.githubusercontent.com/ankushwadhwa05/Excel-Work-and-Project/c45ec28def17511c3bd0a2336f0c07ccf6cae8ac/Screenshot%202026-02-10%20191835.png)
+[<img width="1004" height="601" alt="Screenshot 2026-02-10 191835" src="https://github.com/user-attachments/assets/661059aa-1265-4b35-9b81-8bd9954dbe2c" />](https://raw.githubusercontent.com/ankushwadhwa05/Excel-Work-and-Project/c45ec28def17511c3bd0a2336f0c07ccf6cae8ac/Screenshot%202026-02-10%20191835.png)
 )
 
 ---
